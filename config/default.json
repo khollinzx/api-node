@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost:27017/collins",
+  "jwtSecret": "mySecret",
+  "githubClientId": "3a72786d4257e8f101f7",
+  "githubClientSecret": "2c1b72408b70161f74de9d3e81b31581af45d621"
+}
